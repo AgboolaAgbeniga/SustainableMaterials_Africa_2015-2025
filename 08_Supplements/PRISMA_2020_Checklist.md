@@ -30,11 +30,11 @@
 | **RESULTS** | 16a | Describe the results of the search and selection process, from the number of records identified to included studies. | Section 3.1, Figure 1 (PRISMA 2020 Flow Diagram) |
 | | 16b | Cite studies that might appear to meet the inclusion criteria, but which were excluded, and explain why. | Section 2.4, `03_Screening/TitleAbstract_ScreeningLog.xlsx` |
 | | 17 | Cite each included study and present its characteristics. | Section 3.2, `04_DataExtraction/Extraction_Completed_Master.xlsx` (2,822 studies) |
-| | 18 | Present assessments of risk of bias for each included study. | Section 3.6, Table 6, and `05_QualityAppraisal/Appraisal_Summary.xlsx` |
-| | 19 | For all outcomes, present, for each study: summary statistics. | Section 3.4, Table 3, and `06_Analysis/Synthesis_Tables.xlsx` |
-| | 20a-d | Present results of all statistical syntheses conducted. | Section 3.2–3.7, Figures 1–5, and Tables 1–5 |
-| | 21 | Present results of any investigations of possible causes of heterogeneity among study results. | Section 3.3, 3.4, 3.7 (Material variant and regional analysis) |
-| | 22 | Present results of any sensitivity analyses conducted. | Section 3.6 (100% low risk of bias compliance under JBI criteria) |
+| | 18 | Present assessments of risk of bias for each included study. | Section 4.1, Table 5, and `05_QualityAppraisal/Appraisal_Summary.xlsx` |
+| | 19 | For all outcomes, present, for each study: summary statistics. | Section 3.3–3.8, Tables 1–4, and `06_Analysis/Synthesis_Tables.xlsx` |
+| | 20a-d | Present results of all statistical syntheses conducted. | Section 3.1–3.8, Figures 1–5, and Tables 1–5 |
+| | 21 | Present results of any investigations of possible causes of heterogeneity among study results. | Section 3.3, 3.4, 3.8 (Material variant and regional analysis) |
+| | 22 | Present results of any sensitivity analyses conducted. | Section 4.1 (100% low risk of bias compliance under JBI criteria) |
 | **DISCUSSION** | 23a | Provide a general interpretation of the results in the context of other evidence. | Section 4.1, 4.2 (Resolving strength-sustainability paradox, affordability) |
 | | 23b | Discuss any limitations of the evidence included in the review. | Section 4.4 (Lack of long-term weathering data, European LCA background data) |
 | | 23c | Discuss any limitations of the review processes used. | Section 4.4 (Language limit to English, systematic review scope) |
