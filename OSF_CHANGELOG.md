@@ -67,7 +67,22 @@ This log provides an audit trail of all repository structures, search expansions
 
 ---
 
-### 4. Current State in the PRISMA 2020 Flow Pipeline
+### 4. Infrastructure Contingency: Fallback to Zenodo (CERN) & GitHub Integration
+- **Outage Rationale:**
+  - During active synchronization, the Open Science Framework (OSF) platform experienced intermittent server unavailability (HTTP 502/504 Bad Gateway), temporarily blocking real-time component file uploads.
+  - To ensure uninterrupted research progress, avoid protocol stalls, and maintain immutable open-science provenance, the research pipeline activated an institutional fallback to **Zenodo** (hosted by CERN and OpenAIRE under the European Commission).
+- **GitHub - Zenodo Webhook Architecture:**
+  - Initialized and pushed the entire sanitized project tree to GitHub: [`https://github.com/AgboolaAgbeniga/SustainableMaterials_Africa_2015-2025.git`](https://github.com/AgboolaAgbeniga/SustainableMaterials_Africa_2015-2025.git).
+  - Authorized Zenodo via GitHub OAuth and activated continuous repository archiving webhooks.
+  - Automated Release Tracking: Each milestone release on GitHub automatically triggers a digital snapshot preserved in CERN's high-availability storage facilities in Geneva.
+  - **Persistent Identifier:** Minted official DataCite DOI: [`10.5281/zenodo.22771539`](https://doi.org/10.5281/zenodo.22771539), permanently referenced via badges in `README.md`.
+- **Dual-Repository Governance:**
+  - Zenodo serves as the permanent, immutable code/data archive with persistent DOI tracking.
+  - OSF will serve as the interactive preregistration and protocol workspace as soon as service availability is restored.
+
+---
+
+### 5. Current State in the PRISMA 2020 Flow Pipeline
 ```
 [Phase 1: Information Sources (Exhausted & Completed)]
   ├── Google Scholar (Strings 1-6): 5,747 hits
@@ -86,10 +101,14 @@ This log provides an audit trail of all repository structures, search expansions
 
 ---
 
-## Instructions for OSF Web Interface Update
+## Instructions for OSF Web Interface Update (When Back Online)
 1. Open your OSF Project Dashboard.
-2. In the **`02_SearchLogs`** component:
-   - Upload `SearchLog_Master.csv` (or replace the existing search log).
-   - Upload `AJOL_Results_2025-10-15.csv`.
-3. In the project root / wiki:
-   - Upload or paste this `OSF_CHANGELOG.md` to document the update for public transparency.
+2. In the **`01_Protocol`** component:
+   - Confirm presence of `Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf`.
+3. In the **`02_SearchLogs`** component:
+   - Upload `SearchLog_Master.csv` and `SearchLog_Master.xlsx` (replaces previous logs with full version history).
+   - Upload `AJOL_Results_2026-09-15.csv`.
+   - Upload `OpenAlex_Results_2026-09-15.csv`.
+   - Upload `DOAJ_Results_2026-09-15.csv`.
+4. In the project root / wiki:
+   - Upload or paste this `OSF_CHANGELOG.md` to document the update and link the Zenodo DOI (`10.5281/zenodo.22771539`) for public transparency.
