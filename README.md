@@ -1,5 +1,6 @@
 # Sustainable Building Materials in Africa (2015–2025): A Systematic Review
 
+[![DOI](https://zenodo.org/badge/1371342678.svg)](https://doi.org/10.5281/zenodo.22771539)
 [![OSF DOI](https://img.shields.io/badge/OSF-Registered%20Review-blue)](https://osf.io)
 [![PRISMA 2020](https://img.shields.io/badge/PRISMA-2020%20Compliant-green)](http://www.prisma-statement.org/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
