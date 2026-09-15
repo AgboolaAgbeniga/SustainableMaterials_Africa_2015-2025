@@ -37,10 +37,32 @@ The repository follows standard Open Science Framework (OSF) component structuri
 └── index.json              # Structural repo data map
 ```
 
+## Key Findings & Synthesis Highlights
+- **Multi-Database Scale:** 9,112 raw records identified across Google Scholar (5,747), OpenAlex (2,802), DOAJ (419), and AJOL (144).
+- **Rigorous PRISMA Pipeline:** 1,829 duplicates removed $\to$ 7,283 unique records screened $\to$ 4,461 excluded $\to$ **2,822 empirical studies extracted and appraised**.
+- **Material Dominance:** Low-Carbon Binders (35.3%, n = 995) and Earth-Based Masonry (31.3%, n = 884) constitute over two-thirds of the evidence base.
+- **Structural Superiority:** Compressed Stabilized Earth Blocks (CSEB: 3.5–9.2 MPa) provide **2 to 3 times the compressive strength** of informal commercial sandcrete blocks (frequently 1.0–1.8 MPa) while cutting cement use by 50–70%. LC3 and agro-waste pozzolan concretes fully achieve structural grades (25–52 MPa).
+- **Environmental Decarbonization:** Embodied carbon reductions of 18–42% for binders, 65–78% for earth walling, and net negative carbon sequestration for structural bamboo (-120 to -350 kg CO₂-eq/m³).
+- **Adoption Roadmap:** Overcoming outdated colonial building codes (78% barrier), fragmented supply chains (72%), and testing deficits (64%) through the adoption of ARSO ARS 680–684 regional earth standards and green public procurement quotas.
+
+---
+
+## Deliverables & Key Artifacts
+- **Synthesis Tables:** [`06_Analysis/Synthesis_Tables.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/06_Analysis/Synthesis_Tables.xlsx) (6 comprehensive sheets: Geography, Taxonomy, Mechanical Benchmarks, LCA, Barriers Matrix, JBI Quality).
+- **Publication Figures (300 DPI):** [`06_Analysis/Figures/`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/06_Analysis/Figures/)
+  - `Fig1_PRISMA_2020_Flow_Diagram.png`
+  - `Fig2_Geographic_Distribution.png`
+  - `Fig3_Material_Class_Taxonomy_Distribution.png`
+  - `Fig4_Compressive_Strength_Benchmark_Boxplot.png`
+  - `Fig5_Barriers_Enablers_Taxonomy_Radar.png`
+- **Manuscript Drafts:** [`07_Manuscript/Manuscript_Draft_v1.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Manuscript_Draft_v1.docx) & [`07_Manuscript/Manuscript_Draft_v1.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Manuscript_Draft_v1.md)
+- **PRISMA 2020 Verification:** [`08_Supplements/PRISMA_2020_Checklist.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/08_Supplements/PRISMA_2020_Checklist.docx) & [`08_Supplements/PRISMA_2020_Flow_Diagram_Completed.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/08_Supplements/PRISMA_2020_Flow_Diagram_Completed.docx)
+
 ---
 
 ## Methodological Framework
 - **Guidelines:** PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses).
 - **Quality Appraisal:** Joanna Briggs Institute (JBI) Critical Appraisal Checklists & CASP.
-- **Registration:** Open Science Framework (OSF).
+- **Registration:** Open Science Framework (OSF) & Zenodo (DOI: [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)).
 - **Data Availability:** All raw and processed data are openly accessible under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.
+
