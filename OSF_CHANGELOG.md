@@ -20,7 +20,9 @@
 | **02_SearchLogs** | [`02_SearchLogs/OpenAlex_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/OpenAlex_Results_2026-09-15.csv) | International peer-reviewed open database records (2,802 citations) | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/DOAJ_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/DOAJ_Results_2026-09-15.csv) | Open access journal articles indexed in DOAJ (419 citations) | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/Deduplication_Summary_2026-09-15.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/Deduplication_Summary_2026-09-15.xlsx) | Master PRISMA deduplication audit (1,829 duplicates eliminated) | ⏳ Pending Upload |
-| **03_Screening** | [`03_Screening/TitleAbstract_ScreeningLog.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/TitleAbstract_ScreeningLog.xlsx) | Master screening register with persistent IDs (7,283 unique records) | ⏳ Pending Upload |
+| **03_Screening** | [`03_Screening/TitleAbstract_ScreeningLog.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/TitleAbstract_ScreeningLog.xlsx) | Master screening register with decisions (7,283 unique records; 4,461 excluded) | ⏳ Pending Upload |
+| **03_Screening** | [`03_Screening/FullText_ScreeningLog.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/FullText_ScreeningLog.xlsx) | Eligible full-text candidate studies register (2,822 studies) | ⏳ Pending Upload |
+| **03_Screening** | [`03_Screening/Screening_Audit_Summary_2026-09-15.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/Screening_Audit_Summary_2026-09-15.xlsx) | PRISMA 2020 screening audit summary breakdown | ⏳ Pending Upload |
 | **Project Root / Wiki** | [`OSF_CHANGELOG.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_CHANGELOG.md) | Transparent audit log of repository updates | ⏳ Pending Upload |
 
 ---
@@ -100,9 +102,15 @@ This log provides an audit trail of all repository structures, search expansions
   ├── Total Duplicates Eliminated:     1,829 hits
   └── Net Unique Records for Screening: 7,283 records (SBM-0001 to SBM-7283)
 
-[Phase 3: Two-Stage Screening (Active)]
-  ├── Stage 1: Title & Abstract Screening (Active: 7,283 records)
-  └── Stage 2: Full-Text Retrieval & Reason-Coded Exclusion (Pending)
+[Phase 3: Two-Stage Screening (In Progress)]
+  ├── Stage 1: Title & Abstract Screening (Completed)
+  │     ├── Total Unique Records Screened (PRISMA Box 3):  7,283 records
+  │     ├── Total Excluded at Title/Abstract (Box 4):      4,461 records
+  │     │     ├── EX-MAT (Non-material/medical):           4,311 records
+  │     │     ├── EX-GEO (Non-African setting):              148 records
+  │     │     └── EX-TYPE (Non-empirical editorial):           2 records
+  │     └── Studies Eligible for Full-Text Retrieval (Box 5): 2,822 studies
+  └── Stage 2: Full-Text Retrieval & Reason-Coded Exclusion (Active)
 ```
 
 ---
@@ -118,6 +126,8 @@ This log provides an audit trail of all repository structures, search expansions
    - Upload `DOAJ_Results_2026-09-15.csv`.
    - Upload `Deduplication_Summary_2026-09-15.xlsx`.
 4. In the **`03_Screening`** component:
-   - Upload `TitleAbstract_ScreeningLog.xlsx` (contains all 7,283 unique records with assigned `SBM-` identifiers).
+   - Upload `TitleAbstract_ScreeningLog.xlsx` (master register with decisions and exclusion reasons).
+   - Upload `FullText_ScreeningLog.xlsx` (2,822 eligible full-text studies).
+   - Upload `Screening_Audit_Summary_2026-09-15.xlsx` (PRISMA flow counts).
 5. In the project root / wiki:
    - Upload or paste this `OSF_CHANGELOG.md` to document the update and link the Zenodo DOI (`10.5281/zenodo.22771539`) for public transparency.
