@@ -14,9 +14,9 @@
 > [!NOTE]
 > Since OSF is temporarily unreachable, this checklist tracks all local files ready for upload to their respective OSF components as soon as OSF is back online.
 
-| OSF Target Component | Local File to Upload | Action / Purpose | Status |
+| OSF Target Component | Local File / Artifact | Action / Purpose | Status |
 | :--- | :--- | :--- | :--- |
-| **01_Protocol** | [`01_Protocol/Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/01_Protocol/Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf) | Centralized protocol documentation | ⏳ Pending Upload |
+| **01_Protocol** | [`01_Protocol/Protocol_SR_SBM_Africa_v1_2025-09-24.pdf`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/01_Protocol/Protocol_SR_SBM_Africa_v1_2025-09-24.pdf) | Official registered review protocol (872.2 kB) | ✅ Registered on OSF (2025-09-24) |
 | **02_SearchLogs** | [`02_SearchLogs/SearchLog_Master.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/SearchLog_Master.csv) (or `.xlsx`) | Master search audit log (Google Scholar + AJOL + OpenAlex + DOAJ) | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/AJOL_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/AJOL_Results_2026-09-15.csv) | Curated AJOL empirical records (144 citations) | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/OpenAlex_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/OpenAlex_Results_2026-09-15.csv) | International peer-reviewed open database records (2,802 citations) | ⏳ Pending Upload |
