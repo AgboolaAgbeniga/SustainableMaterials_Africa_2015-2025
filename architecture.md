@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains a Systematic / Rapid Review titled:
-**"Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review"** (Author: Agbeniga Agboola), registered/structured for the Open Science Framework (OSF) and designed according to PRISMA 2020 guidelines.
+**"Sustainable Building Materials in Africa (2015–2025): A Systematic Review"** (Author: Agbeniga Agboola), registered/structured for the Open Science Framework (OSF) and designed according to PRISMA 2020 guidelines.
 
 ## Research Objective
 To synthesize research and evidence on sustainable building materials (SBMs) studied or applied in Africa over the decade 2015–2025 across:

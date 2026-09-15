@@ -1,7 +1,7 @@
 # Implementation Plan: Systematic Review on Sustainable Building Materials in Africa (2015–2025)
 
 This document establishes the end-to-end institutional methodology to complete, verify, host on OSF and GitHub, and prepare for Q1/Q2 journal publication the systematic review entitled:
-**"Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review"** (Author: Agbeniga Agboola).
+**"Sustainable Building Materials in Africa (2015–2025): A Systematic Review"** (Author: Agbeniga Agboola).
 
 ---
 

@@ -1,6 +1,6 @@
 # PRISMA 2020 Checklist: Item-by-Item Verification
 
-**Study Title:** Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review  
+**Study Title:** Sustainable Building Materials in Africa (2015–2025): A Systematic Review  
 **Lead Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661))  
 **Registered OSF Project:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
 **Permanent Repository DOI:** [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)  
@@ -36,7 +36,7 @@
 | | 22 | Present results of any sensitivity analyses conducted. | Section 3.6 (100% low risk of bias compliance under JBI criteria) |
 | **DISCUSSION** | 23a | Provide a general interpretation of the results in the context of other evidence. | Section 4.1, 4.2 (Resolving strength-sustainability paradox, affordability) |
 | | 23b | Discuss any limitations of the evidence included in the review. | Section 4.4 (Lack of long-term weathering data, European LCA background data) |
-| | 23c | Discuss any limitations of the review processes used. | Section 4.4 (Language limit to English, rapid systematic review scope) |
+| | 23c | Discuss any limitations of the review processes used. | Section 4.4 (Language limit to English, systematic review scope) |
 | | 23d | Discuss implications of the results for practice, policy, and future research. | Section 4.3, Section 5.2 (Strategic Action Roadmap 2026–2030, ARSO standards) |
 | **OTHER** | 24a-c | Provide registration information for the review, including register name and registration number. | Section 2.1 & Declarations (OSF registration & Zenodo DOI: 10.5281/zenodo.22771539) |
 | | 25 | Describe and explain any amendments to information provided at registration or in the protocol. | Declarations & `OSF_CHANGELOG.md` (Dual-redundancy switch to Zenodo during OSF downtime) |

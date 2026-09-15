@@ -1,6 +1,6 @@
 # OSF Project Change Log & Component Audit
 
-**Project Title:** Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review  
+**Project Title:** Sustainable Building Materials in Africa (2015–2025): A Systematic Review  
 **Lead Researcher:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661) | [emmanuelagbeniga@gmail.com](mailto:emmanuelagbeniga@gmail.com))  
 **OSF Project URL:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
 **Frameworks:** PRISMA 2020 Statement | Open Science Framework (OSF)  
