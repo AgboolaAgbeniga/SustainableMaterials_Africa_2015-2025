@@ -7,6 +7,20 @@
 
 ---
 
+## Pending OSF Uploads Queue (Sync Checklist)
+
+> [!NOTE]
+> Since OSF is temporarily unreachable, this checklist tracks all local files ready for upload to their respective OSF components as soon as OSF is back online.
+
+| OSF Target Component | Local File to Upload | Action / Purpose | Status |
+| :--- | :--- | :--- | :--- |
+| **01_Protocol** | [`01_Protocol/Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/01_Protocol/Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf) | Centralized protocol documentation | ⏳ Pending Upload |
+| **02_SearchLogs** | [`02_SearchLogs/SearchLog_Master.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/SearchLog_Master.csv) (or `.xlsx`) | Master search audit log (Google Scholar + AJOL + OpenAlex) | ⏳ Pending Upload |
+| **02_SearchLogs** | [`02_SearchLogs/AJOL_Results_2025-10-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/AJOL_Results_2025-10-15.csv) | Curated AJOL empirical records (144 citations) | ⏳ Pending Upload |
+| **Project Root / Wiki** | [`OSF_CHANGELOG.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_CHANGELOG.md) | Transparent audit log of repository updates | ⏳ Pending Upload |
+
+---
+
 ## Summary of Modifications & Component Updates
 
 This log provides an audit trail of all repository structures, search expansions, protocol standardizations, and data registers established for OSF synchronization.
