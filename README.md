@@ -1,14 +1,16 @@
 # Sustainable Building Materials in Africa (2015–2025): A Systematic Review
 
 [![DOI](https://zenodo.org/badge/1371342678.svg)](https://doi.org/10.5281/zenodo.22771539)
-[![OSF DOI](https://img.shields.io/badge/OSF-Registered%20Review-blue)](https://osf.io)
+[![OSF DOI](https://img.shields.io/badge/OSF-dvukp-blue)](https://osf.io/dvukp/)
 [![PRISMA 2020](https://img.shields.io/badge/PRISMA-2020%20Compliant-green)](http://www.prisma-statement.org/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Overview
 This repository contains the complete computational workflow, bibliographic logs, screening records, extraction templates, appraisal data, and manuscript deliverables for the systematic review:
 **"Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review"**  
-**Lead Author:** Agbeniga Agboola
+**Lead Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661))  
+**OSF Project:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
+**Zenodo Persistent DOI:** [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)
 
 The review investigates the 10-year evidence base on sustainable building materials (SBMs) across Africa, evaluating performance, life-cycle impact, economic feasibility, and policy/institutional barriers across five material classes:
 1. **Earth-Based Materials** (Compressed Earth Blocks, Rammed Earth, Stabilized Laterite, Adobe)

@@ -1,8 +1,9 @@
 # Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review
 
-**Author:** Agbeniga Agboola  
+**Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661) | [emmanuelagbeniga@gmail.com](mailto:emmanuelagbeniga@gmail.com))  
 **Affiliation:** Department of Architecture / Civil Engineering Research Group  
 **Framework Standards:** PRISMA 2020 Statement | Joanna Briggs Institute (JBI) Critical Appraisal  
+**Registered OSF Project:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
 **Permanent Repository DOI:** [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)  
 **Target Journals:** *Construction and Building Materials* (Elsevier) / *Journal of Building Engineering* (Elsevier)  
 **Date of Document:** 2026-09-15  
@@ -49,7 +50,7 @@ This rapid systematic review provides an exhaustive, institutionally rigorous sy
 ## 2. Methodology
 
 ### 2.1 Protocol Registration & Open Science Standards
-This review was conducted in strict adherence to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020) statement. The review protocol was registered and archived with persistent versioning on the Open Science Framework (OSF) and dual-redundantly preserved via Zenodo (CERN) under persistent DataCite DOI: **[10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)**. All screening registers, extraction matrices, deduplication audits, and high-resolution figures are openly accessible under open science licensing.
+This review was conducted in strict adherence to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020) statement. The review protocol was originally registered on the Open Science Framework (OSF Project: [https://osf.io/dvukp/](https://osf.io/dvukp/)) and dual-redundantly preserved via Zenodo (CERN) under persistent DataCite DOI: **[10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)**. All screening registers, extraction matrices, deduplication audits, and high-resolution figures are openly accessible under open science licensing.
 
 ### 2.2 Eligibility Criteria
 Studies were evaluated against predefined inclusion and exclusion criteria established in the registered protocol:
