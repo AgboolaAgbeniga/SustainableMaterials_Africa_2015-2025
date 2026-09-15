@@ -1,7 +1,7 @@
 # Sustainable Building Materials in Africa (2015–2025): A Systematic Review
 
 **Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661) | [emmanuelagbeniga@gmail.com](mailto:emmanuelagbeniga@gmail.com))  
-**Affiliation:** Department of Architecture / Civil Engineering Research Group  
+**Affiliation:** Independent Researcher and Civil / Site Engineer  
 **Framework Standards:** PRISMA 2020 Statement | Joanna Briggs Institute (JBI) Critical Appraisal  
 **Registered OSF Project:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
 **Permanent Repository DOI:** [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)  

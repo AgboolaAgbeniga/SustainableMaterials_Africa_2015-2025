@@ -2,6 +2,7 @@
 
 **Study Title:** Sustainable Building Materials in Africa (2015–2025): A Systematic Review  
 **Lead Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661))  
+**Affiliation:** Independent Researcher and Civil / Site Engineer  
 **Registered OSF Project:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
 **Permanent Repository DOI:** [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)  
 **Date of Verification:** 2026-09-15  

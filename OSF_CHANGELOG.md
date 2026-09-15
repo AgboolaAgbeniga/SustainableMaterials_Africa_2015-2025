@@ -2,6 +2,7 @@
 
 **Project Title:** Sustainable Building Materials in Africa (2015–2025): A Systematic Review  
 **Lead Researcher:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661) | [emmanuelagbeniga@gmail.com](mailto:emmanuelagbeniga@gmail.com))  
+**Affiliation:** Independent Researcher and Civil / Site Engineer  
 **OSF Project URL:** [https://osf.io/dvukp/](https://osf.io/dvukp/)  
 **Frameworks:** PRISMA 2020 Statement | Open Science Framework (OSF)  
 **Permanent Zenodo DOI:** [10.5281/zenodo.22771539](https://doi.org/10.5281/zenodo.22771539)  
