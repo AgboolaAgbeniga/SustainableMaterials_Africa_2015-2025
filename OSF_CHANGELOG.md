@@ -3,7 +3,7 @@
 **Project Title:** Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review  
 **Lead Researcher:** Agbeniga Agboola  
 **Frameworks:** PRISMA 2020 Statement | Open Science Framework (OSF)  
-**Date of Log:** 2025-10-15  
+**Date of Log:** 2026-09-15  
 
 ---
 
@@ -16,7 +16,8 @@
 | :--- | :--- | :--- | :--- |
 | **01_Protocol** | [`01_Protocol/Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/01_Protocol/Protocol_Sustainable_Materials_Africa_2015-2025_v1.pdf) | Centralized protocol documentation | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/SearchLog_Master.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/SearchLog_Master.csv) (or `.xlsx`) | Master search audit log (Google Scholar + AJOL + OpenAlex) | ⏳ Pending Upload |
-| **02_SearchLogs** | [`02_SearchLogs/AJOL_Results_2025-10-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/AJOL_Results_2025-10-15.csv) | Curated AJOL empirical records (144 citations) | ⏳ Pending Upload |
+| **02_SearchLogs** | [`02_SearchLogs/AJOL_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/AJOL_Results_2026-09-15.csv) | Curated AJOL empirical records (144 citations) | ⏳ Pending Upload |
+| **02_SearchLogs** | [`02_SearchLogs/OpenAlex_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/OpenAlex_Results_2026-09-15.csv) | International peer-reviewed open database records (2,802 citations) | ⏳ Pending Upload |
 | **Project Root / Wiki** | [`OSF_CHANGELOG.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_CHANGELOG.md) | Transparent audit log of repository updates | ⏳ Pending Upload |
 
 ---
@@ -38,9 +39,14 @@ This log provides an audit trail of all repository structures, search expansions
   - **Source:** African Journals Online (AJOL) structured database (Alonso-Álvarez, 2025, Zenodo DOI: `10.5281/zenodo.14899380`).
   - **Scope:** Parsed 123,571 publication records (2015–2025) across peer-reviewed African national and university journals.
   - **Filtering:** Applied materials taxonomy filter (laterite, compressed earth, rammed earth, bamboo, low-carbon cement, agro-waste pozzolanic ashes, recycled aggregate, plastic waste in concrete) and civil engineering/construction context filtering.
-  - **Output:** Exported 144 curated empirical records into `02_SearchLogs/AJOL_Results_2025-10-15.csv`.
+  - **Output:** Exported 144 curated empirical records into `02_SearchLogs/AJOL_Results_2026-09-15.csv`.
+- **Search Expansion (OpenAlex - Open International Index):**
+  - **Source:** OpenAlex Scholarly API (indexing 250M+ global works across Elsevier, Springer, Wiley, Taylor & Francis).
+  - **Scope:** Executed 6 thematic Boolean queries corresponding to protocol material classes (General SBM, Low-carbon Binders/LC3, Bio-based, Recycled/Waste, Earth-based, Smart materials) bounded by African geographic entities and publication years 2015–2025.
+  - **Abstract Reconstruction:** Reconstructed full-text abstracts from inverted indexes and captured indexed topics, author affiliations, and persistent DOIs.
+  - **Output:** Exported 2,802 unique peer-reviewed records into `02_SearchLogs/OpenAlex_Results_2026-09-15.csv`.
 - **Search Log Consolidation:**
-  - Standardized search documentation into `02_SearchLogs/SearchLog_Master.csv` (and `.xlsx`), indexing Strings 1 to 6 (Google Scholar, 5,747 hits) and String 7 (AJOL, 144 hits), totaling **5,891 raw citations identified**.
+  - Standardized search documentation into `02_SearchLogs/SearchLog_Master.csv` (and `.xlsx`), indexing Strings 1 to 6 (Google Scholar, 5,747 hits), String 7 (AJOL, 144 hits), and String 8 (OpenAlex, 2,802 hits), bringing the raw citation total to **8,693 raw records identified**.
 
 ---
 
@@ -61,11 +67,11 @@ This log provides an audit trail of all repository structures, search expansions
 [Phase 1: Information Sources]
   ├── Google Scholar (Strings 1-6): 5,747 hits (Completed)
   ├── AJOL (African Journals Online):   144 hits (Completed)
-  ├── OpenAlex (Global Open Scholarly): PENDING EXECUTION
-  └── DOAJ (Directory of Open Access):  PENDING EXECUTION
+  ├── OpenAlex (Global Open Scholarly): 2,802 hits (Completed)
+  └── Total Raw Multi-Database Yield:  8,693 hits
 
 [Phase 2: Master Deduplication]
-  └── Scheduled to run immediately upon conclusion of OpenAlex & DOAJ searches.
+  └── Scheduled to run across all 8,693 records simultaneously.
 
 [Phase 3: Two-Stage Screening]
   ├── Stage 1: Title & Abstract Screening (Pending)
