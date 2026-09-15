@@ -1,0 +1,23 @@
+# Office lock and temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch and temporary IDE directories
+scratch/
+.gemini/

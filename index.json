@@ -1,0 +1,56 @@
+{
+  "projectName": "SustainableMaterials_Africa_2015-2025",
+  "projectTitle": "Sustainable Building Materials in Africa (2015–2025): A Rapid Systematic Review",
+  "author": "Agbeniga Agboola",
+  "type": "Systematic Review / Academic Research",
+  "framework": "PRISMA 2020 / OSF",
+  "dataShape": {
+    "searchLogs": {
+      "fields": ["S/N", "Date of Search", "Database", "Search String", "Filters Applied", "Hits Returned", "Notes", "Final Included"]
+    },
+    "extractionDictionary": {
+      "fields": [
+        "ID", "Author", "Year", "Journal/Source", "Country", "Region", "Climate Context",
+        "Material Class", "Material Specification", "Study Aim", "Study Design", "Methods Summary",
+        "Sample Size", "Duration", "Scale", "Environmental Metrics", "Economic Metrics",
+        "Technical Metrics", "Social/Practical Notes", "Comparator", "Standards Referenced",
+        "Key Findings", "Limitations", "Funding Declared", "Data Availability", "Ethics Approval",
+        "Quality Tool Used", "Risk of Bias", "Appraisal Notes"
+      ]
+    }
+  },
+  "modules": [
+    {
+      "path": "01_Protocol",
+      "purpose": "Formal protocol documents detailing rationale, objectives, eligibility, databases, and synthesis strategy"
+    },
+    {
+      "path": "02_SearchLogs",
+      "purpose": "Database query strings, hit counts, execution dates, and exported RIS bibliographic entries"
+    },
+    {
+      "path": "03_Screening",
+      "purpose": "Title/abstract and full-text screening records based on PRISMA 2020 criteria"
+    },
+    {
+      "path": "04_DataExtraction",
+      "purpose": "Structured data extraction sheets and standardized data dictionary"
+    },
+    {
+      "path": "05_QualityAppraisal",
+      "purpose": "Risk of bias and critical appraisal records using JBI and CASP frameworks"
+    },
+    {
+      "path": "06_Analysis",
+      "purpose": "Thematic analysis, narrative synthesis, cross-country comparisons, and figures"
+    },
+    {
+      "path": "07_Manuscript",
+      "purpose": "Journal manuscript drafts and submission deliverables"
+    },
+    {
+      "path": "08_Supplements",
+      "purpose": "PRISMA 2020 checklists, flow diagrams, and supplementary data tables"
+    }
+  ]
+}

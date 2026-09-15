@@ -1,0 +1,40 @@
+OSF Project: Sustainable Building Materials in Africa (Systematic Review)
+
+├── Protocol
+│   └── Protocol_Registered.pdf
+│
+├── Search Logs
+│   ├── SearchLog_v1_2025-10-12.csv
+│   ├── GoogleScholar_Results_2025-10-12.ris
+│   ├── AJOL_Results_2025-10-13.csv
+│   ├── DOAJ_Results_2025-10-14.bib
+│   └── Deduplication_Summary_2025-10-15.xlsx
+│
+├── Screening
+│   ├── TitleAbstract_ScreeningLog.xlsx
+│   ├── FullText_ScreeningLog.xlsx
+│   └── PRISMA_FlowDiagram_Template.pdf
+│
+├── Data Extraction
+│   ├── ExtractionTemplate.xlsx
+│   ├── Extraction_DataDictionary.txt
+│   └── Extraction_Completed_2025-11-01.xlsx
+│
+├── Quality Appraisal
+│   ├── JBI_Checklists.pdf
+│   ├── CASP_Checklists.pdf
+│   └── Appraisal_Summary.xlsx
+│
+├── Analysis
+│   ├── Synthesis_Tables.xlsx
+│   ├── Narrative_Summary.docx
+│   └── Figures (subfolder for charts/graphs)
+│
+├── Manuscript
+│   ├── Draft_v1_2025-11-15.docx
+│   ├── Draft_v2_2025-12-01.docx
+│   └── Final_Submission.docx
+│
+└── Supplements
+    ├── PRISMA_Checklist_2025-12-10.pdf
+    └── Supplementary_Tables.xlsx

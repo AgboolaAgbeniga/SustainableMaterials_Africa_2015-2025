@@ -1,0 +1,32 @@
+Extraction Data Dictionary
+--------------------------
+
+ID: Unique identifier for each study (numeric or alphanumeric).
+Author: First author surname and initials.
+Year: Year of publication.
+Journal/Source: Journal name, conference, or repository.
+Country: Country where study was conducted.
+Region: African region (e.g., West Africa, East Africa).
+Climate Context: Climate zone (e.g., tropical, arid, savannah).
+Material Class: Broad category (Earth-based, Bio-based, Recycled, Low-carbon binder).
+Material Specification: Specific material (e.g., laterite stabilized with 5% cement).
+Study Aim: Authors’ stated objective.
+Study Design: Experimental, observational, case study, LCA, survey, etc.
+Methods Summary: Short description of methods used.
+Sample Size: Number of specimens, participants, or cases.
+Duration: Study or testing period (e.g., 28-day curing).
+Scale: Lab, pilot, or full-scale.
+Environmental Metrics: Units and methods (e.g., kg CO₂e via LCA).
+Economic Metrics: Units and methods (e.g., cost per m², life-cycle cost).
+Technical Metrics: Units and methods (e.g., compressive strength in MPa).
+Social/Practical Notes: Adoption, skills, codes, user acceptance.
+Comparator: Conventional material or alternative SBM.
+Standards Referenced: Codes or standards cited (e.g., ASTM, ISO).
+Key Findings: Main results as reported by authors.
+Limitations: Limitations as reported or judged.
+Funding Declared: Funding source, if any.
+Data Availability: Whether authors provided open data.
+Ethics Approval: Ethics approval status (if applicable).
+Quality Tool Used: JBI, CASP, or other.
+Risk of Bias: Low, Moderate, or High.
+Appraisal Notes: Reviewer’s justification for bias rating.
