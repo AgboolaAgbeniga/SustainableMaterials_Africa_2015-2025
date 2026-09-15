@@ -1,10 +1,13 @@
-# Office lock and temporary files
+# Third-party large external datasets (queried locally; outputs saved in 02_SearchLogs)
+resources/
+
+# Microsoft Office lock and temporary files
 ~$*.xlsx
 ~$*.docx
 ~$*.pptx
 *.tmp
 
-# Python artifacts
+# Python artifacts and caches
 __pycache__/
 *.py[cod]
 *$py.class
@@ -18,6 +21,6 @@ venv/
 Thumbs.db
 desktop.ini
 
-# Scratch and temporary IDE directories
+# Scratch and temporary agent directories
 scratch/
 .gemini/
