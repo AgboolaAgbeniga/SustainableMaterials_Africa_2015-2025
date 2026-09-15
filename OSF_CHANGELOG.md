@@ -19,6 +19,8 @@
 | **02_SearchLogs** | [`02_SearchLogs/AJOL_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/AJOL_Results_2026-09-15.csv) | Curated AJOL empirical records (144 citations) | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/OpenAlex_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/OpenAlex_Results_2026-09-15.csv) | International peer-reviewed open database records (2,802 citations) | ⏳ Pending Upload |
 | **02_SearchLogs** | [`02_SearchLogs/DOAJ_Results_2026-09-15.csv`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/DOAJ_Results_2026-09-15.csv) | Open access journal articles indexed in DOAJ (419 citations) | ⏳ Pending Upload |
+| **02_SearchLogs** | [`02_SearchLogs/Deduplication_Summary_2026-09-15.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/02_SearchLogs/Deduplication_Summary_2026-09-15.xlsx) | Master PRISMA deduplication audit (1,829 duplicates eliminated) | ⏳ Pending Upload |
+| **03_Screening** | [`03_Screening/TitleAbstract_ScreeningLog.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/TitleAbstract_ScreeningLog.xlsx) | Master screening register with persistent IDs (7,283 unique records) | ⏳ Pending Upload |
 | **Project Root / Wiki** | [`OSF_CHANGELOG.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_CHANGELOG.md) | Transparent audit log of repository updates | ⏳ Pending Upload |
 
 ---
@@ -91,11 +93,15 @@ This log provides an audit trail of all repository structures, search expansions
   ├── DOAJ (Open Access Journals):      419 hits
   └── Grand Total Raw Identifications: 9,112 hits
 
-[Phase 2: Master Deduplication]
-  └── Ready to run across all 9,112 records simultaneously.
+[Phase 2: Master Deduplication (Completed)]
+  ├── Total Raw Multi-Database Pool:   9,112 hits
+  ├── Duplicates removed via DOI:        514 hits
+  ├── Duplicates removed via Title:    1,315 hits
+  ├── Total Duplicates Eliminated:     1,829 hits
+  └── Net Unique Records for Screening: 7,283 records (SBM-0001 to SBM-7283)
 
-[Phase 3: Two-Stage Screening]
-  ├── Stage 1: Title & Abstract Screening (Pending)
+[Phase 3: Two-Stage Screening (Active)]
+  ├── Stage 1: Title & Abstract Screening (Active: 7,283 records)
   └── Stage 2: Full-Text Retrieval & Reason-Coded Exclusion (Pending)
 ```
 
@@ -110,5 +116,8 @@ This log provides an audit trail of all repository structures, search expansions
    - Upload `AJOL_Results_2026-09-15.csv`.
    - Upload `OpenAlex_Results_2026-09-15.csv`.
    - Upload `DOAJ_Results_2026-09-15.csv`.
-4. In the project root / wiki:
+   - Upload `Deduplication_Summary_2026-09-15.xlsx`.
+4. In the **`03_Screening`** component:
+   - Upload `TitleAbstract_ScreeningLog.xlsx` (contains all 7,283 unique records with assigned `SBM-` identifiers).
+5. In the project root / wiki:
    - Upload or paste this `OSF_CHANGELOG.md` to document the update and link the Zenodo DOI (`10.5281/zenodo.22771539`) for public transparency.
