@@ -23,6 +23,8 @@
 | **03_Screening** | [`03_Screening/TitleAbstract_ScreeningLog.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/TitleAbstract_ScreeningLog.xlsx) | Master screening register with decisions (7,283 unique records; 4,461 excluded) | ⏳ Pending Upload |
 | **03_Screening** | [`03_Screening/FullText_ScreeningLog.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/FullText_ScreeningLog.xlsx) | Eligible full-text candidate studies register (2,822 studies) | ⏳ Pending Upload |
 | **03_Screening** | [`03_Screening/Screening_Audit_Summary_2026-09-15.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/03_Screening/Screening_Audit_Summary_2026-09-15.xlsx) | PRISMA 2020 screening audit summary breakdown | ⏳ Pending Upload |
+| **04_DataExtraction** | [`04_DataExtraction/Extraction_Completed_Master.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/04_DataExtraction/Extraction_Completed_Master.xlsx) | Master 29-field extraction dataset (2,822 studies across 5 material classes) | ⏳ Pending Upload |
+| **05_QualityAppraisal** | [`05_QualityAppraisal/Appraisal_Summary.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/05_QualityAppraisal/Appraisal_Summary.xlsx) | JBI Critical Appraisal risk-of-bias evaluation (2,822 studies) | ⏳ Pending Upload |
 | **Project Root / Wiki** | [`OSF_CHANGELOG.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_CHANGELOG.md) | Transparent audit log of repository updates | ⏳ Pending Upload |
 
 ---
