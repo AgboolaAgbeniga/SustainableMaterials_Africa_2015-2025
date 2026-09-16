@@ -51,6 +51,7 @@ The repository follows standard Open Science Framework (OSF) component structuri
 ---
 
 ## Deliverables & Key Artifacts
+- **OSF Master Wiki & Component Guides:** [`OSF_WIKI.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_WIKI.md) & [`OSF_Wikis/`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/OSF_Wikis/) (Ready-to-paste wikis for OSF Home and Components 01–08).
 - **Synthesis Tables:** [`06_Analysis/Synthesis_Tables.xlsx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/06_Analysis/Synthesis_Tables.xlsx) (6 comprehensive sheets: Geography, Taxonomy, Mechanical Benchmarks, LCA, Barriers Matrix, JBI Quality).
 - **Publication Figures (300 DPI):** [`06_Analysis/Figures/`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/06_Analysis/Figures/)
   - `Fig1_PRISMA_2020_Flow_Diagram.png`
@@ -58,7 +59,8 @@ The repository follows standard Open Science Framework (OSF) component structuri
   - `Fig3_Material_Class_Taxonomy_Distribution.png`
   - `Fig4_Compressive_Strength_Benchmark_Boxplot.png`
   - `Fig5_Barriers_Enablers_Taxonomy_Radar.png`
-- **Manuscript Drafts:** [`07_Manuscript/Manuscript_Draft_v1.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Manuscript_Draft_v1.docx) & [`07_Manuscript/Manuscript_Draft_v1.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Manuscript_Draft_v1.md)
+- **Manuscript Deliverables (APA 7th Edition, 10,448 Words, 87 Refs):** [`07_Manuscript/Manuscript_Draft_v1.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Manuscript_Draft_v1.docx) & [`07_Manuscript/Manuscript_Draft_v1.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Manuscript_Draft_v1.md)
+- **Journal Submission Package:** [`07_Manuscript/Cover_Letter_and_Highlights.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Cover_Letter_and_Highlights.docx) & [`07_Manuscript/Journal_Submission_Guidelines_and_Checklist.md`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/07_Manuscript/Journal_Submission_Guidelines_and_Checklist.md)
 - **PRISMA 2020 Verification:** [`08_Supplements/PRISMA_2020_Checklist.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/08_Supplements/PRISMA_2020_Checklist.docx) & [`08_Supplements/PRISMA_2020_Flow_Diagram_Completed.docx`](file:///c:/Users/emman/OneDrive/Documents/SustainableMaterials_Africa_2015-2025/08_Supplements/PRISMA_2020_Flow_Diagram_Completed.docx)
 
 ---
