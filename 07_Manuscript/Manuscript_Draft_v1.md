@@ -190,7 +190,7 @@ The synthesis of the 2,492 eligible primary studies reveals significant geograph
 
 West Africa represents the largest national research cluster, contributing 336 localized studies (13.5% of the review base). This output is heavily anchored by Nigeria (n = 243 studies), followed by Ghana (n = 70), Burkina Faso (n = 15), Senegal (n = 5), and Côte d'Ivoire (n = 3). East Africa constitutes the second most active regional hub (n = 132 studies; 5.3%), led by Ethiopia (n = 81) and Kenya (n = 32), alongside contributions from Tanzania (n = 13), Uganda (n = 4), and Rwanda (n = 2). Southern Africa accounts for 112 studies (4.5%), dominated by South Africa (n = 102), with emerging contributions from Zimbabwe, Zambia, and Malawi. North Africa contributes 47 studies (1.9%), concentrated in Egypt (n = 30), Morocco (n = 7), and Algeria (n = 6), where arid climatic demands have stimulated research on rammed earth, stabilized adobe, and passive thermal regulation plasters. Central Africa is represented by 10 studies (0.4%), primarily from Cameroon (n = 9) and DR Congo (n = 1), reflecting institutional resource constraints and limited specialized materials testing infrastructure. Two additional studies (n = 2; 0.1%) address desert loess stabilization and compressed earth systems across a Regional Sahelian Context spanning arid zones of West and Central Africa (Smalley et al., 2019; Bharadwaj, 2016).
 
-Table 1 summarizes the geographic distribution of empirical research across African regions and key national contributors, cross-tabulated against predominant material research foci and primary testing standards.
+Table 1 and Figure 2 summarize the geographic distribution of empirical research across African regions and key national contributors, cross-tabulated against predominant material research foci and primary testing standards.
 
 ### Table 1: Geographic Distribution of Eligible Primary Studies across African Jurisdictions (n = 2,492)
 *Note. Data synthesized from n = 2,492 eligible primary studies published between 2015 and 2025 across sovereign African jurisdictions.*
@@ -207,6 +207,16 @@ Table 1 summarizes the geographic distribution of empirical research across Afri
 | **Pan-African / Multi-Country Datasets** | 1,837 | 73.7% | Cross-border datasets, continental materials inventories, multi-region trials | Limestone Calcined Clay Cement kinetics, agro-waste ash databases, circular waste composites | ARS 680–684, ISO 14040/44, BS EN 206 |
 | **Total Evidence Base** | **2,492** | **100.0%** | **Pan-African Evidence Base** | **5-Class Technological Spectrum** | **PRISMA 2020 Reporting & JBI Standards** |
 
+---
+
+**Figure 2.** *Geographic Distribution and National Empirical Study Concentrations across Sovereign African Jurisdictions (2015–2025).*
+
+![Figure 2: Geographic Distribution of African Studies](Figures/Figure2_Choropleth_AfricaStudyCounts.jpg)
+
+*Note.* Choropleth representation synthesizing empirical primary study distribution across sovereign African nations. Concentrated national research hubs include Nigeria (n = 243), South Africa (n = 102), Ethiopia (n = 81), Ghana (n = 70), and Kenya (n = 32). In addition, 1,837 studies comprise cross-border or pan-African regional datasets not assigned to a single national territory.
+
+---
+
 ## 3.2 Material Taxonomy and Proportional Representation
 Empirical investigations across the 2,492 eligible primary studies were categorized into five standardized technological classes:
 1. Low-Carbon Binders and Supplementary Cementitious Materials (SCMs) represent the largest category, comprising 35.7% of the evidence base (n = 890 studies). This focus is driven by efforts to reduce the clinker factor in cement production through Limestone Calcined Clay Cement (LC3) and agricultural by-product ashes.
@@ -215,19 +225,29 @@ Empirical investigations across the 2,492 eligible primary studies were categori
 4. Renewable Bio-Based Systems represent 11.9% (n = 296 studies), focusing on indigenous structural bamboo characterization, mass timber, and vegetative fiber reinforcement.
 5. Smart and Innovative Systems account for 4.7% (n = 117 studies), evaluating phase change materials (PCMs) for passive thermal cooling and microbial-induced calcite precipitation (MICP) for concrete crack self-healing.
 
-Table 2 presents the proportional breakdown, primary raw material feedstocks, chemical/processing mechanisms, and target structural applications across the five taxonomic classes.
+Table 2 and Figure 3 present the proportional breakdown, primary raw material feedstocks, chemical/processing mechanisms, and target structural applications across the five taxonomic classes.
 
 ### Table 2: Material Taxonomy and Technological Classification across Included African Studies (n = 2,492)
 *Note. Taxonomic distribution of peer-reviewed primary empirical studies evaluating sustainable building materials across Africa (2015–2025).*
 
 | Material Taxonomic Class | Included Studies (n) | Percentage (%) | Primary Raw Material Feedstocks Utilized | Processing & Chemical Mechanisms | Principal Target Structural Applications |
 | :--- | :---: | :---: | :--- | :--- | :--- |
-| **Low-Carbon Binders & SCMs** | 890 | 35.7% | Kaolinitic clays, agricultural ashes (rice husk, sugarcane bagasse, palm oil fuel ash, cassava peel ash), blast furnace slag, fly ash | Thermal calcination (650–800°C), secondary pozzolanic reactions ($	ext{SiO}_2 + 	ext{Ca(OH)}_2 	o 	ext{C-S-H}$), alkaline geopolymer activation | Structural reinforced concrete frames, low-carbon masonry mortars, precast infrastructure elements |
+| **Low-Carbon Binders & SCMs** | 890 | 35.7% | Kaolinitic clays, agricultural ashes (rice husk, sugarcane bagasse, palm oil fuel ash, cassava peel ash), blast furnace slag, fly ash | Thermal calcination (650–800°C), secondary pozzolanic reactions ($\text{SiO}_2 + \text{Ca(OH)}_2 \to \text{C-S-H}$), alkaline geopolymer activation | Structural reinforced concrete frames, low-carbon masonry mortars, precast infrastructure elements |
 | **Earth-Based Masonry** | 773 | 31.0% | Lateritic soils, red tropical earths, sandy loams, alluvial clays, termitaria earths | Mechanical compression (2–10 MPa hydraulic pressure), cement stabilization (4–8%), hydrated lime carbonation | Loadbearing walling blocks, interlocking mortarless masonry, modern stabilized rammed earth |
 | **Recycled & Waste Composites** | 416 | 16.7% | Crushed concrete demolition rubble, post-consumer plastics (PET, HDPE), crushed bottle glass, foundry sand, palm kernel shells | Mechanical crushing/grading, thermal extrusion, interfacial transition zone (ITZ) modification with silica fume | Paving blocks, lightweight structural concrete, thermal insulating screeds |
 | **Renewable Bio-Based Systems** | 296 | 11.9% | Indigenous structural bamboo (*O. abyssinica*, *B. vulgaris*), agricultural fibers (sisal, coir, kenaf), mass timber | Boron-based preservation, alkaline surface fiber treatment, resin impregnation, timber-concrete jointing | Structural space frames, lightweight roof trusses, fiber-reinforced ceiling boards, seismic walling |
 | **Smart & Innovative Systems** | 117 | 4.7% | Organic phase change materials (paraffin waxes, fatty acids), *Sporosarcina pasteurii* bacteria, nano-silica | Micro-encapsulation, latent heat thermal energy storage, microbial-induced calcium carbonate precipitation (MICP) | Passive indoor thermal regulation plasters, self-healing crack remediation in concrete |
 | **Total Evidence Base** | **2,492** | **100.0%** | **Continental Resource Inventory** | **Multi-Scale Material Synthesis** | **Decarbonized Built Infrastructure** |
+
+---
+
+**Figure 3.** *Taxonomic Classification and Proportional Representation of Eligible Primary Studies across Five Sustainable Building Material Classes (N = 2,492).*
+
+![Figure 3: Material Class Taxonomy](Figures/Figure3_Material_Class_Taxonomy.png)
+
+*Note.* Proportional representation of peer-reviewed primary empirical literature (2015–2025): Low-Carbon Binders & SCMs (35.7%, n = 890), Earth-Based Masonry (31.0%, n = 773), Recycled & Waste Composites (16.7%, n = 416), Renewable Bio-Based Systems (11.9%, n = 296), and Smart & Innovative Systems (4.7%, n = 117). Each study is assigned to exactly one primary class.
+
+---
 
 ## 3.3 Deep-Dive Synthesis: Masonry Walling Materials (CEBs, CSEBs, Rammed Earth)
 Across 773 included studies on earth-based masonry, empirical research focused on enhancing the mechanical strength, moisture durability, and dimensional stability of raw soils:
@@ -252,6 +272,8 @@ The 890 studies investigating low-carbon binders focused primarily on Limestone 
 2. Agricultural Waste Pozzolans: Controlled incineration of rice husk ash (RHA; 600–700°C), sugarcane bagasse ash (SCBA), and palm oil fuel ash (POFA) produces amorphous silica-rich ashes ($>65–85\% \text{ SiO}_2$). At 10% to 20% cement replacement levels, these agro-ashes yielded reported concrete compressive strengths of 22.0 to 44.0 MPa, while densifying the interfacial transition zone (Alaneme et al., 2025; Ogunro et al., 2025).
 3. Alkali-Activated Geopolymers: Synthesized from coal fly ash, granulated blast furnace slag, and metakaolin using alkaline activators (sodium silicate/hydroxide), geopolymer binders demonstrated reported compressive strengths of 30.0 to 65.0 MPa with rapid early strength gain, although reliance on concentrated chemical activators presents cost and handling considerations for on-site casting (Provis & van Deventer, 2014; Ikotun et al., 2025).
 
+Table 3B summarizes the mechanical and durability benchmarks across concrete and binder systems. A consolidated synthesis of reported 28-day compressive strengths across masonry and concrete classes compared to regulatory benchmarks is illustrated in Figure 4.
+
 ### Table 3B: Mechanical and Durability Benchmarks of Concrete & Binder Systems
 *Note. Reported values represent the range of synthesized empirical outcomes across tested mix designs. Standard comparator: 100% Ordinary Portland Cement concrete (BS EN 206 C20/25).*
 
@@ -262,6 +284,16 @@ The 890 studies investigating low-carbon binders focused primarily on Limestone 
 | **Alkali-Activated Geopolymer Concrete (Fly Ash / Slag)** | 30.0 – 65.0 | 3.8 – 7.0 | 2,280 – 2,400 | 3.5 – 6.0 | Very Low (<800 Coulombs) | High early structural strength; complete clinker elimination |
 | **Recycled Aggregate Concrete (20–40% Coarse RCA)** | 20.0 – 36.0 | 2.6 – 4.2 | 2,150 – 2,320 | 6.0 – 9.5 | Moderate (1,800–2,800 Coulombs) | Satisfies C20/25 with water-reducing admixture compensation |
 | **Conventional OPC Concrete Baseline (BS EN 206 C20/25)** | **25.0 – 32.0** | **3.2 – 4.5** | **2,350 – 2,450** | **5.0 – 7.0** | **Moderate (2,000–3,500 Coulombs)** | **Standard continental civil engineering baseline comparator** |
+
+---
+
+**Figure 4.** *Reported 28-Day Compressive Strength Benchmarks across Alternative Building Material Systems versus Regulatory Thresholds and Conventional Baselines.*
+
+![Figure 4: Compressive Strength Benchmarks](Figures/Figure4_Compressive_Strength_Benchmarks.png)
+
+*Note.* Bars represent the midpoint of synthesized min–max ranges reported across empirical laboratory and field investigations; error bars denote the full reported minimum-to-maximum span. Reference lines indicate regulatory masonry thresholds (NIS 87 at 2.5 MPa; GS 297 at 2.8 MPa) and conventional structural concrete baseline (BS EN 206 C20/25 at 25.0 MPa). Values reflect study-reported ranges and do not constitute meta-analytic pooled estimates.
+
+---
 
 ## 3.5 Deep-Dive Synthesis: Renewable Bio-Based Structural Materials
 The 296 included studies on bio-based systems investigated structural bamboo species, plantation timber, and vegetative fiber composites:
@@ -328,7 +360,7 @@ As presented in Table 4, structural bamboo demonstrates significant carbon stora
 ## 4.1 Methodological Quality & Risk of Bias Synthesis across Study Designs
 Evaluating internal methodological validity across the 2,492 eligible primary studies indicates an evidence base characterized by strong physical experimental control alongside significant reporting deficiencies, particularly regarding statistical variance. Rather than applying a single uniform appraisal tool across disparate study designs, quality was evaluated using three design-appropriate instruments: the JBI Checklist for Quasi-Experimental Studies for all physical engineering and materials testing studies (n = 2,251, comprising 2,062 experimental laboratory investigations, 168 microstructural/chemical characterization studies, and 21 structural prototype trials), the JBI Checklist for Analytical Cross-Sectional Studies for socio-technical and adoption surveys (n = 137), and ISO 14040/14044 methodological reporting quality criteria for Life Cycle Assessment (LCA) studies (n = 104). The sum 2,251 + 137 + 104 = 2,492 confirms complete coverage of the evidence base.
 
-Table 5 summarizes compliance across appraisal criteria and details the resulting Risk of Bias distribution.
+Table 5 and Figure 6 summarize compliance across appraisal criteria and detail the resulting Risk of Bias distribution.
 
 ### Table 5: Methodological Quality Appraisal and Risk of Bias Summary across Study Designs (N = 2,492)
 *Note. Appraisal conducted across design-appropriate criteria. Values denote percentage of studies satisfying criteria (% 'Yes'). \* Longitudinal testing weighted total computed only across the 2,251 physical-engineering studies for which this criterion is applicable; N/A entries are excluded from the denominator.*
@@ -351,6 +383,16 @@ As shown in Table 5, the primary methodological vulnerability across the African
 
 Consequently, while the evidence base demonstrates high fidelity in physical specimen preparation and standard testing execution, it is appropriately classified as predominantly **Moderate Risk of Bias (75.3%)**, with 24.7% of studies meeting the rigorous thresholds for Low Risk of Bias. Journal editors and reviewers should mandate comprehensive statistical reporting, including variance metrics across a minimum of three replicate specimens, in future experimental publications.
 
+---
+
+**Figure 6.** *Risk of Bias and Methodological Quality Appraisal Distribution Stratified by Study Design and Overall Evidence Base (N = 2,492).*
+
+![Figure 6: Risk of Bias Distribution](Figures/Figure6_Risk_of_Bias_Distribution.png)
+
+*Note.* Stacked bar chart illustrating the distribution of methodological quality tiers across design-appropriate appraisal instruments: Physical Engineering & Materials Testing (n = 2,251; JBI Quasi-Experimental), Socio-Technical Surveys (n = 137; JBI Analytical Cross-Sectional), and LCA & Carbon Studies (n = 104; ISO 14040/44). Across the entire evidence base (N = 2,492), 24.7% of studies were classified as Low Risk of Bias and 75.3% as Moderate Risk of Bias, with zero studies categorized as High Risk.
+
+---
+
 ## 4.2 Material Performance versus Commercial Realities: A Socio-Technical Assessment
 A central empirical finding of this decadal systematic review is the marked disparity between laboratory material performance and commercial market dominance. While empirical evidence from included studies reports that Compressed Stabilized Earth Blocks (CSEBs yielding 3.5–9.2 MPa) and low-carbon binders (LC3 reporting 28.0–52.0 MPa) achieve structural capacities exceeding stated regulatory thresholds (Tables 3A and 3B), commercial construction across African cities remains overwhelmingly dominated by artisanal sandcrete blocks testing between 1.0 and 1.8 MPa.
 
@@ -362,7 +404,7 @@ This persistence is driven by interconnected socio-economic, perceptual, and ins
 ## 4.3 Empirical Barriers-versus-Enablers Synthesis (N_barrier = 137)
 Synthesizing data across the 137 included studies that empirically evaluated implementation barriers, adoption determinants, and supply chain logistics delineates four systemic barrier dimensions alongside evidence-informed enablers.
 
-Table 6 outlines the empirical prevalence of these dimensions and their corresponding strategic enablers.
+Table 6 and Figure 5 outline the empirical prevalence of these dimensions and their corresponding strategic enablers.
 
 ### Table 6: Empirical Adoption Barriers and Evidence-Informed Responses across African Jurisdictions (N_barrier = 137)
 *Note. Synthesized across n = 137 primary studies evaluating implementation barriers, supply chains, and stakeholder perceptions in African construction.*
@@ -373,6 +415,16 @@ Table 6 outlines the empirical prevalence of these dimensions and their correspo
 | **Supply Chain & Economic Dimension** | 98 / 137 | **71.5%** | Dispersed agricultural biomass collection; capital cost of automated hydraulic presses; clinker import cartels | Centralized agricultural calcination cooperatives; public-private partnerships for LC3 clay calcination; zero-rating import tariffs on green presses |
 | **Technical & Infrastructure Dimension** | 87 / 137 | **63.5%** | Testing laboratory deficits outside capital cities (UTMs, XRF); shortage of trained site artisans | Accredited regional testing laboratories; mobile calibration units; full integration of CSEB and bamboo into national TVET curricula |
 | **Socio-Cultural & Perceptual Dimension** | 83 / 137 | **60.6%** | Cultural stigma associating earth and bio-materials with poverty; commercial skepticism regarding tropical durability | Prominent civic showcase architecture (libraries, universities, ministries); public acoustic, thermal, and fire resistance awareness campaigns |
+
+---
+
+**Figure 5.** *Empirical Prevalence of Four Systemic Implementation Barrier Dimensions across African Adoption Studies (N_barrier = 137).*
+
+![Figure 5: Implementation Barriers Radar Chart](Figures/Figure5_Barriers_Radar.png)
+
+*Note.* Radar representation of empirical barrier prevalence across N_barrier = 137 adoption studies: Regulatory & Institutional Dimension (78.1%, n = 107), Supply Chain & Economic Dimension (71.5%, n = 98), Technical & Infrastructure Dimension (63.5%, n = 87), and Socio-Cultural & Perceptual Dimension (60.6%, n = 83). Categories are not mutually exclusive.
+
+---
 
 ## 4.4 Methodological Gaps and Review Limitations
 While this systematic review provides a broad empirical synthesis, several important limitations must be acknowledged:
