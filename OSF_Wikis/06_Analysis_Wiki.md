@@ -8,7 +8,7 @@
 ---
 
 ## 1. Scope & Analytical Overview
-This component presents the synthesized empirical evidence base. It integrates multi-dimensional quantitative analyses spanning geographic representation, taxonomic distribution, mechanical performance benchmarks, life cycle assessment (LCA) environmental profiles, empirical adoption barriers, and methodological quality appraisal across 2,822 studies.
+This component presents the synthesized empirical evidence base. It integrates multi-dimensional quantitative analyses spanning geographic representation, taxonomic distribution, mechanical performance benchmarks, life cycle assessment (LCA) environmental profiles, empirical adoption barriers, and methodological quality appraisal across 2,492 studies.
 
 ---
 
@@ -31,7 +31,7 @@ All figures located in `06_Analysis/Figures/` are rendered at 300 DPI in PNG for
 
 | File Name | Figure Title | Core Empirical Insight Displayed |
 | :--- | :--- | :--- |
-| **`Fig1_PRISMA_2020_Flow_Diagram.png`** | PRISMA 2020 Flow Diagram | Full mathematical flow: 9,112 identified citations $\to$ 1,829 duplicates eliminated $\to$ 7,283 screened $\to$ 4,461 excluded with standardized reason breakdown $\to$ 2,822 empirical studies included. |
+| **`Fig1_PRISMA_2020_Flow_Diagram.png`** | PRISMA 2020 Flow Diagram | Full mathematical flow: 9,112 identified citations $\to$ 1,829 duplicates eliminated $\to$ 7,283 screened $\to$ 4,461 excluded with standardized reason breakdown $\to$ 2,492 primary empirical studies included. |
 | **`Fig2_Geographic_Distribution.png`** | Geographic Distribution of African Research | Spatial concentration of empirical output across African sub-regions and national hubs (Nigeria, South Africa, Ethiopia, Ghana, Kenya). |
 | **`Fig3_Material_Class_Taxonomy_Distribution.png`** | Material Taxonomy Proportions | Breakdown of the 5 material classes led by Low-Carbon Binders (35.3%) and Earth-Based Masonry (31.3%). |
 | **`Fig4_Compressive_Strength_Benchmark_Boxplot.png`** | Compressive Strength Benchmarks Boxplot | Statistical distribution of 28-day compressive strengths across material classes benchmarked against the NIS 87 sandcrete standard (2.5 MPa) and BS EN 206 C20/25 baseline. Demonstrates the structural superiority of CSEBs (3.5–9.2 MPa) over commercial sandcrete blocks (1.0–1.8 MPa). |

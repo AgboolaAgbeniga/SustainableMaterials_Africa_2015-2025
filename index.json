@@ -1,22 +1,41 @@
 {
   "projectName": "SustainableMaterials_Africa_2015-2025",
-  "projectTitle": "Sustainable Building Materials in Africa (2015–2025): A Systematic Review",
+  "projectTitle": "Sustainable Building Materials in Africa (2015–2025): A Systematic Evidence Synthesis of Material Classes, Technical Performance, and Implementation Contexts",
   "author": "Agbeniga Agboola",
+  "orcid": "0009-0005-6878-1661",
   "type": "Systematic Review / Academic Research",
-  "framework": "PRISMA 2020 / OSF",
+  "framework": "PRISMA 2020 / OSF / JBI",
+  "targetJournal": "Journal of Building Engineering (Elsevier)",
   "dataShape": {
     "searchLogs": {
+      "rawHits": 9112,
+      "duplicatesRemoved": 1829,
+      "uniqueScreened": 7283,
       "fields": ["S/N", "Date of Search", "Database", "Search String", "Filters Applied", "Hits Returned", "Notes", "Final Included"]
     },
+    "screening": {
+      "stage1Excluded": 4461,
+      "candidateFullText": 2822,
+      "stage2Excluded": 330,
+      "finalIncluded": 2492
+    },
     "extractionDictionary": {
+      "fieldCount": 31,
       "fields": [
-        "ID", "Author", "Year", "Journal/Source", "Country", "Region", "Climate Context",
+        "ID", "Author", "Year", "Title", "Journal/Source", "Country", "Region", "Climate Context",
         "Material Class", "Material Specification", "Study Aim", "Study Design", "Methods Summary",
         "Sample Size", "Duration", "Scale", "Environmental Metrics", "Economic Metrics",
         "Technical Metrics", "Social/Practical Notes", "Comparator", "Standards Referenced",
         "Key Findings", "Limitations", "Funding Declared", "Data Availability", "Ethics Approval",
-        "Quality Tool Used", "Risk of Bias", "Appraisal Notes"
+        "Quality Tool Used", "Risk of Bias", "Appraisal Notes", "DOI"
       ]
+    },
+    "qualityAppraisal": {
+      "lowRiskCount": 615,
+      "moderateRiskCount": 1877,
+      "lowRiskPercentage": 24.7,
+      "moderateRiskPercentage": 75.3,
+      "primaryDeficit": "Statistical variance reporting across replicate specimens (51.7% weighted compliance)"
     }
   },
   "modules": [
@@ -26,31 +45,31 @@
     },
     {
       "path": "02_SearchLogs",
-      "purpose": "Database query strings, hit counts, execution dates, and exported RIS bibliographic entries"
+      "purpose": "Database query strings, hit counts (9,112), execution dates (2025-2026), and deduplication registers"
     },
     {
       "path": "03_Screening",
-      "purpose": "Title/abstract and full-text screening records based on PRISMA 2020 criteria"
+      "purpose": "Two-stage screening logs with explicit PRISMA exclusion codes and reproducible 10% re-screening audit log (kappa = 0.95), yielding 2,492 included primary empirical studies"
     },
     {
       "path": "04_DataExtraction",
-      "purpose": "Structured data extraction sheets and standardized data dictionary"
+      "purpose": "Master 31-parameter extraction database (2,492 rows x 31 columns) across 5 material classes"
     },
     {
       "path": "05_QualityAppraisal",
-      "purpose": "Risk of bias and critical appraisal records using JBI and CASP frameworks"
+      "purpose": "Design-stratified critical appraisal records across 5 study designs using JBI and ISO 14040/44 frameworks"
     },
     {
       "path": "06_Analysis",
-      "purpose": "Thematic analysis, narrative synthesis, cross-country comparisons, and figures"
+      "purpose": "8 synthesis tables (Geography, Taxonomy, Benchmarks 3A-D, LCA, Quality, Barriers) and 5 publication figures"
     },
     {
       "path": "07_Manuscript",
-      "purpose": "Journal manuscript drafts and submission deliverables"
+      "purpose": "Full APA 7th Edition manuscript (10,782 words, 10 tables, 54 references, Appendix 1), cover letter, and JOBE guidelines"
     },
     {
       "path": "08_Supplements",
-      "purpose": "PRISMA 2020 checklists, flow diagrams, and supplementary data tables"
+      "purpose": "PRISMA 2020 item-by-item checklists, flow diagrams, and supplementary search appendix"
     }
   ]
 }

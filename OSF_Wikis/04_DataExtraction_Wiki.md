@@ -3,12 +3,12 @@
 **Component URL:** [https://osf.io/dvukp/files/osfstorage](https://osf.io/dvukp/) (Target Folder: `04_DataExtraction`)  
 **Lead Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661))  
 **Master Extraction File:** `Extraction_Completed_Master.xlsx`  
-**Dataset Scale:** 2,822 empirical studies $\times$ 29 standardized fields  
+**Dataset Scale:** 2,492 primary empirical studies $\times$ 31 standardized fields  
 
 ---
 
 ## 1. Scope & Relational Database Architecture
-This component houses the core empirical database of the systematic review. Data from all 2,822 eligible peer-reviewed studies were extracted into a structured 29-field relational matrix, capturing bibliographic metadata, geographic and climatic context, material taxonomy, laboratory experimental designs, physical/mechanical benchmarks, environmental indicators, and socio-economic adoption barriers.
+This component houses the core empirical database of the systematic review. Data from all 2,492 eligible peer-reviewed studies were extracted into a structured 31-parameter relational matrix, capturing bibliographic metadata, geographic and climatic context, material taxonomy, laboratory experimental designs, physical/mechanical benchmarks, environmental indicators, and socio-economic adoption barriers.
 
 ---
 
@@ -17,7 +17,7 @@ This component houses the core empirical database of the systematic review. Data
 The master spreadsheet `Extraction_Completed_Master.xlsx` contains the following 29 data columns:
 
 ### Section A: Bibliographic Identifiers
-1. `ID`: Unique numeric study identifier (1 to 2,822).
+1. `ID`: Unique numeric study identifier (1 to 2,492).
 2. `Author`: Primary author(s) string.
 3. `Year`: Publication year (2015 to 2025).
 4. `Title`: Full scholarly title.
@@ -63,4 +63,4 @@ The master spreadsheet `Extraction_Completed_Master.xlsx` contains the following
 - **Recycled & Industrial Waste Composites:** 444 studies (15.7%)
 - **Renewable Bio-Based Materials:** 358 studies (12.7%)
 - **Smart & Innovative Building Systems:** 141 studies (5.0%)
-- **Total Validated Studies:** **2,822 studies (100.0%)**
+- **Total Validated Studies:** **2,492 studies (100.0%)**

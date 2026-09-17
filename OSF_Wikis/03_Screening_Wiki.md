@@ -4,7 +4,7 @@
 **Lead Author:** Agbeniga Agboola ([ORCID: 0009-0005-6878-1661](https://orcid.org/0009-0005-6878-1661))  
 **Unique Records Screened:** 7,283 records  
 **Records Excluded:** 4,461 records  
-**Full-Text Studies Eligible:** 2,822 studies  
+**Full-Text Studies Eligible:** 2,492 studies  
 
 ---
 
@@ -21,7 +21,7 @@ The titles, abstracts, and keywords of all **7,283 unique records** were screene
   4. `EX-DUP` (Duplicate / Preliminary): Redundant preliminary conference abstracts superseded by full journal publications (n = 397).
 
 ### Stage 2: Full-Text Eligibility Appraisal
-Full texts of the remaining **2,822 candidate records** were retrieved and evaluated for empirical data completeness. Studies were required to report quantitative mechanical metrics (compressive strength, flexural strength), physical metrics (density, water absorption), chemical compositions (XRF, XRD), or life-cycle environmental indicators (embodied carbon, embodied energy). All 2,822 empirical studies met the rigorous eligibility criteria and advanced to data extraction.
+Full texts of the remaining **2,492 candidate records** were retrieved and evaluated for empirical data completeness. Studies were required to report quantitative mechanical metrics (compressive strength, flexural strength), physical metrics (density, water absorption), chemical compositions (XRF, XRD), or life-cycle environmental indicators (embodied carbon, embodied energy). Stage 2 full-text eligibility screening excluded 330 records (231 reviews/books, 84 non-African, 13 out-of-scope, 2 non-English), leaving 2,492 primary empirical studies that advanced to data extraction.
 
 ---
 
@@ -30,7 +30,7 @@ Full texts of the remaining **2,822 candidate records** were retrieved and evalu
 | File Name | Format | Purpose & Description | Record Count |
 | :--- | :---: | :--- | :---: |
 | **`TitleAbstract_ScreeningLog.xlsx`** | Excel | Master screening register containing all unique records with reviewer inclusion/exclusion decisions and standardized reason codes. | 7,283 records |
-| **`FullText_ScreeningLog.xlsx`** | Excel | Detailed eligibility register of all retrieved full-text candidates confirmed for inclusion. | 2,822 records |
+| **`FullText_ScreeningLog.xlsx`** | Excel | Detailed eligibility register of all retrieved full-text candidates confirmed for inclusion. | 2,492 records |
 | **`Screening_Audit_Summary_2026-09-15.xlsx`** | Excel | Cross-tabulated statistical breakdown of screening decisions by database source, year, and exclusion category. | Summary sheet |
 
 ---
@@ -45,5 +45,5 @@ $$\begin{aligned}
 \text{Net Unique Records Screened: } & 7,283 \\
 - \text{ Title/Abstract Excluded: } & 4,461 \\
 \hline
-\text{Included Empirical Studies: } & \mathbf{2,822}
+\text{Included Empirical Studies: } & \mathbf{2,492}
 \end{aligned}$$
